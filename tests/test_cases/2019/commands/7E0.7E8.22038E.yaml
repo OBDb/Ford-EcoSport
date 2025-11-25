@@ -1,5 +1,6 @@
-command_id: 7E0.22038E
+command_id: 7E0.7E8.22038E
 test_cases:
 - expected_values:
     FORD_EVAP_V: 0
+    FORD_[ECU] EVAP PRES SENSOR V: 0
   response: 7E80562038E0000
