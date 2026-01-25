@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_EcoSport"
+
 generations:
   - name: "First Generation"
     start_year: 2003
@@ -6,5 +9,10 @@ generations:
 
   - name: "Second Generation"
     start_year: 2012
-    end_year: 2023
-    description: "The second-generation EcoSport maintained the same basic concept but with significantly modernized design and technology, expanding to global markets including Europe and eventually North America (from 2018). Built on Ford's global B-car platform shared with the Fiesta, it retained compact dimensions but with more sophisticated styling aligned with Ford's global design language. The rear-mounted spare tire became optional in many markets, reflecting the vehicle's expanded urban focus. Powertrain options varied significantly by region, including EcoBoost petrol engines, naturally aspirated units, and diesel options in some markets. The North American version featured a 1.0L EcoBoost three-cylinder or 2.0L four-cylinder. The interior offered improved materials and technology, including Ford's SYNC infotainment system. A significant refresh in 2017 updated the exterior styling, particularly the front end, and substantially revised the interior with a floating touchscreen and improved materials. Despite these updates, the second-generation EcoSport faced increasing competition in the rapidly expanding subcompact crossover segment and was criticized for its side-hinged rear door (which presented challenges in tight parking spaces) and dated platform. Production ended for North America in 2022 and for other markets in 2023 without a direct replacement, as Ford shifted focus to newer crossover models."
+    end_year: 2017
+    description: "The second-generation EcoSport was developed under Ford's global product development process, designated under project code B515 and model code BK in Australia. Built on the Ford Global B-car Platform (shared with the Fiesta), it was first showcased at the 2012 New Delhi Auto Expo and launched in Brazil on July 14, 2012. The vehicle was manufactured in India, Brazil, China, Thailand, Russia, and Vietnam. It entered the European market in 2014 and maintained the distinctive rear-mounted spare tire on a side-hinged rear door. Powertrain options included petrol engines (1.0L, 1.5L, 1.6L, 2.0L) and diesel engines (1.4L and 1.5L), varying by market. The interior featured improved materials and technology compared to the first generation, with Ford's SYNC infotainment system available."
+
+  - name: "Second Generation (2017 Facelift)"
+    start_year: 2017
+    end_year: 2022
+    description: "The mid-cycle facelift of the second-generation EcoSport was announced at the 2016 Los Angeles Auto Show for the 2018 model year. Key updates included a revised front end design with a new grille and headlights, a redesigned rear bumper, and a substantially updated interior featuring an optional 8-inch floating touchscreen infotainment system supporting Apple CarPlay and Android Auto. The facelift was introduced in India and became available in the North American market in 2018, imported from India. Production continued in Romania (from 2017), Vietnam, and other markets until 2022. Regional production dates varied: Romania (2017-2022), Vietnam (2014-2022), and India/Brazil until 2021. The facelift maintained the same platform and overall concept but with modernized styling and technology to better compete in the expanding subcompact crossover segment. Production ended in North America in 2022, with the European market served from Romania until the vehicle's discontinuation after the 2022 model year without a direct replacement."
