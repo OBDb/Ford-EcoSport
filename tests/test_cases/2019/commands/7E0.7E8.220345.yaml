@@ -4,5 +4,8 @@ test_cases:
     FORD_PCM_MISF_EVENTS_LATEST_CYC: 0
   response: '7E80762034500000000'
 - expected_values:
+    FORD_PCM_MISF_EVENTS_LATEST_CYC: 1
+  response: '7E80762034500000001'
+- expected_values:
     FORD_PCM_MISF_EVENTS_LATEST_CYC: 14
   response: 7E8076203450000000E

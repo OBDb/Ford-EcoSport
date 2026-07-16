@@ -4,26 +4,5 @@ test_cases:
     FORD_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    FORD_VSS: 2
-  response: 7E80462F40D02
-- expected_values:
-    FORD_VSS: 7
-  response: 7E80462F40D07
-- expected_values:
-    FORD_VSS: 19
-  response: 7E80462F40D13
-- expected_values:
-    FORD_VSS: 39
-  response: 7E80462F40D27
-- expected_values:
-    FORD_VSS: 47
-  response: 7E80462F40D2F
-- expected_values:
-    FORD_VSS: 57
-  response: 7E80462F40D39
-- expected_values:
-    FORD_VSS: 58
-  response: 7E80462F40D3A
-- expected_values:
-    FORD_VSS: 61
-  response: 7E80462F40D3D
+    FORD_VSS: 126
+  response: 7E80462F40D7E
