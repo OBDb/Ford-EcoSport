@@ -4,11 +4,11 @@ test_cases:
     FORD_ETC_ANG_DES: 0.89453
   response: 7E80562091A01CA
 - expected_values:
-    FORD_ETC_ANG_DES: 2.49609
-  response: 7E80562091A04FE
-- expected_values:
     FORD_ETC_ANG_DES: 7
   response: 7E80562091A0E00
+- expected_values:
+    FORD_ETC_ANG_DES: 9.49805
+  response: 7E80562091A12FF
 - expected_values:
     FORD_ETC_ANG_DES: 82
   response: 7E80562091AA400
