@@ -8,4 +8,9 @@ test_cases:
   response: 7E80562031AFF37
 - expected_values:
     FORD_VCT_INT_ERR: 50
+  response: |-
+    7E80562031AFFF5
+    7E8075902FFC155002E
+- expected_values:
+    FORD_VCT_INT_ERR: 50
   response: 7E80562031AFFFF
