@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.2203E8
 test_cases:
 - expected_values:
-    FORD_OAR: 0.81378
-  response: 7E8056203E83415
+    FORD_OAR: 0.00433
+  response: 7E8056203E80047
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8FA0F
+  response: 7E8056203E8E6FF
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8FAFD
+  response: 7E8056203E8F001
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8FC96
+  response: 7E8056203E8FEB5
