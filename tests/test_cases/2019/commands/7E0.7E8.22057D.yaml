@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22057D
 test_cases:
 - expected_values:
-    FORD_AAT_ALT: 19
-  response: 7E80462057D76
+    FORD_AAT_ALT: 12
+  response: 7E80462057D68
 - expected_values:
-    FORD_AAT_ALT: 67
-  response: 7E80462057DD6
+    FORD_AAT_ALT: 70
+  response: 7E80462057DDC
