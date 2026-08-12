@@ -1,8 +1,18 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
-    FORD_BATT_TEMP: 24
-  response: '72E0462402940'
+    FORD_BATT_TEMP: 21
+  response: 72E046240293D
 - expected_values:
-    FORD_BATT_TEMP: 49
-  response: '72E0462402959'
+    FORD_BATT_TEMP: 54
+  response: |-
+    72E046240295E
+    72E07622B0000000000
+- expected_values:
+    FORD_BATT_TEMP: 55
+  response: 72E046240295F
+- expected_values:
+    FORD_BATT_TEMP: 52
+  response: |-
+    72E07622B0000000000
+    72E046240295C
