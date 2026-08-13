@@ -15,5 +15,10 @@ test_cases:
     FORD_TP_RRI: 150
   response: |-
     72E056228170BB8
+    72E07622B0040000000
+- expected_values:
+    FORD_TP_RRI: 150
+  response: |-
+    72E056228170BB8
     72E100B5902CA9D0115
     72E210891D9090A0000
