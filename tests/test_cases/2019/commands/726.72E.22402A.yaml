@@ -15,6 +15,11 @@ test_cases:
     72E0462402A9E
     72E07622B0040000000
 - expected_values:
+    FORD_12V_V: 14.2
+  response: |-
+    72E0462402AA4
+    72E07622B0000000000
+- expected_values:
     FORD_12V_V: 14.5
   response: |-
     72E0462402AAA
