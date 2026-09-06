@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22F407
 test_cases:
 - expected_values:
-    FORD_LTFT: -14.84375
-  response: 7E80462F4076D
+    FORD_LTFT: -15.625
+  response: 7E80462F4076C
 - expected_values:
     FORD_LTFT: 9.375
   response: 7E80462F4078C
