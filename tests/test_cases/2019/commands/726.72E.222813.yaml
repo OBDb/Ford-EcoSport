@@ -4,6 +4,11 @@ test_cases:
     FORD_TP_FL: 30.2
   response: 72E05622813025C
 - expected_values:
+    FORD_TP_FL: 35.8
+  response: |-
+    72E0562281302CC
+    72E07622B0040000000
+- expected_values:
     FORD_TP_FL: 35.85
   response: |-
     72E0562281302CD
