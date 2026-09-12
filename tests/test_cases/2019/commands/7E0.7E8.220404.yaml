@@ -9,6 +9,11 @@ test_cases:
     7E805620404006C
     7E8075902FFC155002E
 - expected_values:
+    FORD_KS2_RAW: 145
+  response: |-
+    7E8056204040091
+    7E8075902FFC1550028
+- expected_values:
     FORD_KS2_RAW: 255
   response: 7E80562040400FF
 - expected_values:
