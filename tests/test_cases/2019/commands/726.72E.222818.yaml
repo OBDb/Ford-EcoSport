@@ -10,4 +10,9 @@ test_cases:
     FORD_TP_RLI: 150
   response: |-
     72E056228180BB8
+    72E075902CA91D9090A
+- expected_values:
+    FORD_TP_RLI: 150
+  response: |-
+    72E056228180BB8
     72E07622B0000000000
