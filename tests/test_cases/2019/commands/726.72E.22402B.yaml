@@ -14,5 +14,10 @@ test_cases:
     72E0462402B81
     72E075902CA91D9090A
 - expected_values:
+    FORD_12V_A: 6
+  response: |-
+    72E0462402B85
+    72E07622B0000000000
+- expected_values:
     FORD_12V_A: 45
   response: 72E0462402BAC
