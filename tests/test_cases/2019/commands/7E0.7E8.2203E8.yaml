@@ -10,10 +10,10 @@ test_cases:
     7E8075902FFC1550028
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8E6FF
+  response: 7E8056203E8E001
 - expected_values:
     FORD_OAR: 1
-  response: 7E8056203E8F001
+  response: 7E8056203E8E6FF
 - expected_values:
     FORD_OAR: 1
   response: 7E8056203E8FF3E
