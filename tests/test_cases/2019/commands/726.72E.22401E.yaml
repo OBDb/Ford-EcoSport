@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     FORD_NORM_CUM_CHG_IGN_ON: 0
   response: 72E0562401E0CF7
+- expected_values:
+    FORD_NORM_CUM_CHG_IGN_ON: 0
+  response: 72E0562401E0CF8
+- expected_values:
+    FORD_NORM_CUM_CHG_IGN_ON: 0
+  response: 72E0562401E0CF9
