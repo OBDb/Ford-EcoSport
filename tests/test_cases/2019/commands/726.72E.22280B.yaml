@@ -1,0 +1,22 @@
+command_id: 726.72E.22280B
+test_cases:
+- expected_values:
+    FORD_TYRE_T: 13
+  response: |-
+    72E100C62280B6503D5
+    72E21CB028F35461600
+- expected_values:
+    FORD_TYRE_T: 13
+  response: |-
+    72E100C62280B6503D5
+    72E21CB029435461700
+- expected_values:
+    FORD_TYRE_T: 14
+  response: |-
+    72E100C62280B6503D5
+    72E21CB029936461900
+- expected_values:
+    FORD_TYRE_T: 17
+  response: |-
+    72E100C62280B6503D7
+    72E21CE029E39462200

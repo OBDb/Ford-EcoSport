@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221E63
+test_cases:
+- expected_values:
+    FORD_AWD_CLU_CMD_CTRL_SIG: 52.15686
+  response: 7E804621E6385
+- expected_values:
+    FORD_AWD_CLU_CMD_CTRL_SIG: 62.7451
+  response: 7E804621E63A0
+- expected_values:
+    FORD_AWD_CLU_CMD_CTRL_SIG: 69.01961
+  response: 7E804621E63B0
+- expected_values:
+    FORD_AWD_CLU_CMD_CTRL_SIG: 76.86275
+  response: 7E804621E63C4
+- expected_values:
+    FORD_AWD_CLU_CMD_CTRL_SIG: 85.88235
+  response: 7E804621E63DB
+- expected_values:
+    FORD_AWD_CLU_CMD_CTRL_SIG: 97.64706
+  response: 7E804621E63F9
