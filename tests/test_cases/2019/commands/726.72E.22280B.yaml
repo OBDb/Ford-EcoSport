@@ -16,6 +16,11 @@ test_cases:
     72E100C62280B6503D5
     72E21CB029936461900
 - expected_values:
+    FORD_TYRE_T: 21
+  response: |-
+    72E100C62280B6503D5
+    72E21CB02A83D462300
+- expected_values:
     FORD_TYRE_T: 17
   response: |-
     72E100C62280B6503D7
