@@ -1,5 +1,8 @@
 command_id: 726.72E.224021
 test_cases:
 - expected_values:
-    FORD_NORM_CUM_DCHG_BAT_ON: 0
+    FORD_NORM_CUM_DCHG_BAT_ON: 431.2
   response: 72E0562402110D8
+- expected_values:
+    FORD_NORM_CUM_DCHG_BAT_ON: 431.3
+  response: 72E0562402110D9

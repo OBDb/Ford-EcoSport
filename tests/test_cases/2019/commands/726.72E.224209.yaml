@@ -7,8 +7,8 @@ test_cases:
     FORD_BAT_CURRENT: 2.5
   response: 72E0762420900000A00
 - expected_values:
-    FORD_BAT_CURRENT: 7
-  response: 72E0762420900001CE0
+    FORD_BAT_CURRENT: 2.75
+  response: 72E0762420900000BE0
 - expected_values:
     FORD_BAT_CURRENT: 4194299.25
   response: 72E07624209FFFFEDE0
