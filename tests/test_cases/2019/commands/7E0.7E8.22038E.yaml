@@ -6,21 +6,21 @@ test_cases:
   response: 7E80562038E0000
 - expected_values:
     FORD_EVAP_RAW: 1616
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 1.616
   response: |-
     7E80562038E0650
     7E8075902FFC155002E
 - expected_values:
     FORD_EVAP_RAW: 1791
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 1.791
   response: 7E80562038E06FF
 - expected_values:
     FORD_EVAP_RAW: 2672
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 2.672
   response: |-
     7E80562038E0A70
     7E8075902FFC1550028
 - expected_values:
     FORD_EVAP_RAW: 3958
-    FORD_EVAP_V: 5
+    FORD_EVAP_V: 3.958
   response: 7E80562038E0F76

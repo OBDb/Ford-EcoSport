@@ -9,5 +9,5 @@ test_cases:
     7E80462F40D1C
     7E8075902FFC1550028
 - expected_values:
-    FORD_VSS: 158
-  response: 7E80462F40D9E
+    FORD_VSS: 159
+  response: 7E80462F40D9F

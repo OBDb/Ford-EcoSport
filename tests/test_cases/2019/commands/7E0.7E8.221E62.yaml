@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     FORD_AWD_CLU_DIAGNOSTIC: 60.39216
   response: 7E804621E629A
+- expected_values:
+    FORD_AWD_CLU_DIAGNOSTIC: 61.56863
+  response: 7E804621E629D

@@ -1,32 +1,37 @@
 command_id: 726.72E.22280B
 test_cases:
 - expected_values:
+    FORD_TYRE_T: 26
+  response: |-
+    72E100C62280B6503D4
+    72E217402B24246D200
+- expected_values:
+    FORD_TYRE_T: 29
+  response: |-
+    72E100C62280B6503D4
+    72E217402C645059800
+- expected_values:
     FORD_TYRE_T: 13
   response: |-
     72E100C62280B6503D5
     72E21CB028F35461600
 - expected_values:
-    FORD_TYRE_T: 13
+    FORD_TYRE_T: 27
   response: |-
     72E100C62280B6503D5
-    72E21CB029435461700
+    72E21CB02C643462F00
 - expected_values:
-    FORD_TYRE_T: 14
+    FORD_TYRE_T: 28
   response: |-
     72E100C62280B6503D5
-    72E21CB029936461900
+    72E21CB02C644463000
 - expected_values:
-    FORD_TYRE_T: 21
+    FORD_TYRE_T: 71
   response: |-
-    72E100C62280B6503D5
-    72E21CB02A83D462300
+    72E100C62280B6503D7
+    72E215502BC6F4BEA00
 - expected_values:
     FORD_TYRE_T: 17
   response: |-
     72E100C62280B6503D7
     72E21CE029E39462200
-- expected_values:
-    FORD_TYRE_T: 22
-  response: |-
-    72E100C62280B6503D7
-    72E21CE02AD3E462A00
