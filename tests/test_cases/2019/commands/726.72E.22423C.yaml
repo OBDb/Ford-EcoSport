@@ -1,8 +1,8 @@
 command_id: 726.72E.22423C
 test_cases:
 - expected_values:
-    FORD_VEH_BAT_B_CURRENT: 1.21875
-  response: 72E0562423C0027
+    FORD_VEH_BAT_B_CURRENT: 0.9375
+  response: 72E0562423C001E
 - expected_values:
     FORD_VEH_BAT_B_CURRENT: 8.15625
   response: 72E0562423C0105
