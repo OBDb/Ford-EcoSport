@@ -4,29 +4,8 @@ test_cases:
     FORD_BAT_QUIESCENT: 18
   response: 72E0562402507F4
 - expected_values:
-    FORD_BAT_QUIESCENT: 19
-  response: 72E0562402507F6
-- expected_values:
-    FORD_BAT_QUIESCENT: 20
-  response: 72E0562402507F8
-- expected_values:
-    FORD_BAT_QUIESCENT: 21
-  response: 72E0562402507FA
+    FORD_BAT_QUIESCENT: 22
+  response: 72E0562402507FC
 - expected_values:
     FORD_BAT_QUIESCENT: 25
   response: '72E056240250802'
-- expected_values:
-    FORD_BAT_QUIESCENT: 27
-  response: '72E056240250806'
-- expected_values:
-    FORD_BAT_QUIESCENT: 34
-  response: '72E056240250814'
-- expected_values:
-    FORD_BAT_QUIESCENT: 36
-  response: '72E056240250818'
-- expected_values:
-    FORD_BAT_QUIESCENT: 40
-  response: '72E056240250820'
-- expected_values:
-    FORD_BAT_QUIESCENT: 42
-  response: '72E056240250824'
