@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     FORD_AAT_7E0: 21
   response: 7E80462F4463D
+- expected_values:
+    FORD_AAT_7E0: 32
+  response: 7E80462F44648
