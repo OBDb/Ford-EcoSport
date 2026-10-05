@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22033D
 test_cases:
 - expected_values:
-    FORD_MASS_AIRFLOW_SENS: 747.25
-  response: 7E80562033D0BAD
+    FORD_MASS_AIRFLOW_SENS: 691
+  response: 7E80562033D0ACC
+- expected_values:
+    FORD_MASS_AIRFLOW_SENS: 704
+  response: 7E80562033D0B00
 - expected_values:
     FORD_MASS_AIRFLOW_SENS: 2239.75
   response: 7E80562033D22FF
-- expected_values:
-    FORD_MASS_AIRFLOW_SENS: 2560.25
-  response: 7E80562033D2801
 - expected_values:
     FORD_MASS_AIRFLOW_SENS: 6767
   response: 7E80562033D69BC
