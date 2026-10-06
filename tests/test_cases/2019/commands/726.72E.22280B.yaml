@@ -1,10 +1,10 @@
 command_id: 726.72E.22280B
 test_cases:
 - expected_values:
-    FORD_TYRE_T: 26
+    FORD_TYRE_T: 8
   response: |-
     72E100C62280B6503D4
-    72E217402B24246D200
+    72E2174027630067400
 - expected_values:
     FORD_TYRE_T: 29
   response: |-
@@ -45,8 +45,3 @@ test_cases:
   response: |-
     72E100C62280B6503D7
     72E21CE02803106D400
-- expected_values:
-    FORD_TYRE_T: 8
-  response: |-
-    72E100C62280B6503D7
-    72E21CE028530461400
