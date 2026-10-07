@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     FORD_NORM_CUM_DCHG_BAT_ON: 431.5
   response: 72E0562402110DB
+- expected_values:
+    FORD_NORM_CUM_DCHG_BAT_ON: 431.6
+  response: 72E0562402110DC
