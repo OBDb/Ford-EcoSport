@@ -11,11 +11,6 @@ test_cases:
     72E100C62280B6503D4
     72E2174027630067400
 - expected_values:
-    FORD_TYRE_T: 29
-  response: |-
-    72E100C62280B6503D4
-    72E217402C645059800
-- expected_values:
     FORD_TYRE_T: 34
   response: |-
     72E100C62280B6503D4
@@ -41,10 +36,10 @@ test_cases:
     72E100C62280B6503D5
     72E21CB02C644463000
 - expected_values:
-    FORD_TYRE_T: 8
+    FORD_TYRE_T: 5
   response: |-
     72E100C62280B6503D7
-    72E2155027630469800
+    72E2155026C2D469300
 - expected_values:
     FORD_TYRE_T: 23
   response: |-
@@ -60,3 +55,8 @@ test_cases:
   response: |-
     72E100C62280B6503D7
     72E21CE027B2F461100
+- expected_values:
+    FORD_TYRE_T: 35
+  response: |-
+    72E100C62280B6503D7
+    72E21CE02D54B05FE00
