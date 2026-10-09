@@ -4,11 +4,11 @@ test_cases:
     FORD_BAT_CURRENT: 0
   response: '72E0762420900000060'
 - expected_values:
-    FORD_BAT_CURRENT: 2.5
-  response: 72E0762420900000A00
+    FORD_BAT_CURRENT: 1
+  response: '72E0762420900000400'
 - expected_values:
-    FORD_BAT_CURRENT: 2.75
-  response: 72E0762420900000BE0
+    FORD_BAT_CURRENT: 2.5
+  response: 72E0762420900000AE0
 - expected_values:
     FORD_BAT_CURRENT: 3.5
   response: |-
