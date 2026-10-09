@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221E63
 test_cases:
 - expected_values:
-    FORD_AWD_CLU_CMD_CTRL_SIG: 41.17647
-  response: 7E804621E6369
+    FORD_AWD_CLU_CMD_CTRL_SIG: 32.94118
+  response: 7E804621E6354
 - expected_values:
     FORD_AWD_CLU_CMD_CTRL_SIG: 97.64706
   response: 7E804621E63F9
