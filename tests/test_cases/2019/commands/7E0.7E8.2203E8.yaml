@@ -16,8 +16,8 @@ test_cases:
   response: 7E8056203E8E001
 - expected_values:
     FORD_OAR: 0
-    FORD_[ECU] OAR: -0.39069
-  response: 7E8056203E8E6FF
+    FORD_[ECU] OAR: -0.43756
+  response: 7E8056203E8E3FF
 - expected_values:
     FORD_OAR: 0
     FORD_[ECU] OAR: -0.01184
