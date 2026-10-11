@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     FORD_AC_P_7E0: 0
   response: 7E80762FD180001A98F
+- expected_values:
+    FORD_AC_P_7E0: 0
+  response: 7E80762FD180001AA07
+- expected_values:
+    FORD_AC_P_7E0: 0
+  response: 7E80762FD180001AAF7
+- expected_values:
+    FORD_AC_P_7E0: 0
+  response: 7E80762FD180001AD14
