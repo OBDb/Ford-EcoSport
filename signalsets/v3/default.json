@@ -96,7 +96,7 @@
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "4209"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
-    {"id": "ECOSPORT_BAT_CURRENT", "path": "Battery", "fmt": { "len": 32, "max": 2097151, "min": -2097152, "div": 1024, "sign": true, "unit": "amps" }, "name": "Battery current, predicted"}
+    {"id": "ECOSPORT_BAT_CURRENT", "path": "Battery", "fmt": { "len": 24, "max": 2097151.75, "min": -2097152, "div": 4, "sign": true, "unit": "amps" }, "name": "Battery current, predicted"}
   ]},
 { "hdr": "726", "rax": "72E", "cmd": {"22": "420A"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
