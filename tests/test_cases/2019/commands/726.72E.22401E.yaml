@@ -1,11 +1,11 @@
 command_id: 726.72E.22401E
 test_cases:
 - expected_values:
-    FORD_NORM_CUM_CHG_IGN_ON: 331.9
+    ECOSPORT_NORM_CUM_CHG_IGN_ON: 331.9
   response: 72E0562401E0CF7
 - expected_values:
-    FORD_NORM_CUM_CHG_IGN_ON: 332.7
+    ECOSPORT_NORM_CUM_CHG_IGN_ON: 332.7
   response: 72E0562401E0CFF
 - expected_values:
-    FORD_NORM_CUM_CHG_IGN_ON: 332.8
+    ECOSPORT_NORM_CUM_CHG_IGN_ON: 332.8
   response: 72E0562401E0D00

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.22F40C
 test_cases:
 - expected_values:
-    FORD_RPM: 0
+    ECOSPORT_RPM: 0
   response: 7E80562F40C0000
 - expected_values:
-    FORD_RPM: 831.75
+    ECOSPORT_RPM: 831.75
   response: 7E80562F40C0CFF
 - expected_values:
-    FORD_RPM: 6376.25
+    ECOSPORT_RPM: 6376.25
   response: 7E80562F40C63A1

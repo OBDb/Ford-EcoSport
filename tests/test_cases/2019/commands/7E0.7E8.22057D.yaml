@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.22057D
 test_cases:
 - expected_values:
-    FORD_AAT_ALT: 6
+    ECOSPORT_AAT_ALT: 6
   response: 7E80462057D5C
 - expected_values:
-    FORD_AAT_ALT: 24
+    ECOSPORT_AAT_ALT: 24
   response: |-
     7E80462057D80
     7E8075902FFC155002C
 - expected_values:
-    FORD_AAT_ALT: 71
+    ECOSPORT_AAT_ALT: 71
   response: 7E80462057DDE

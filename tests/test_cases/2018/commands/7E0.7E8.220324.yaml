@@ -1,6 +1,5 @@
 command_id: 7E0.7E8.220324
 test_cases:
 - expected_values:
-    FORD_HPFP_V: 0.50831
-    FORD_MAX_HPFP_V: 0.50831
+    ECOSPORT_HPFP_V: 0.50831
   response: '7E8056203240068'

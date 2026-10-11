@@ -1,26 +1,21 @@
 command_id: 726.72E.222814
 test_cases:
 - expected_values:
-    FORD_MAX_TP_FR: 30.15
-    FORD_TP_FR: 30.15
+    ECOSPORT_TP_FR: 30.15
   response: 72E05622814025B
 - expected_values:
-    FORD_MAX_TP_FR: 35.05
-    FORD_TP_FR: 35.05
+    ECOSPORT_TP_FR: 35.05
   response: |-
     72E0562281402BD
     72E07622B0000000000
 - expected_values:
-    FORD_MAX_TP_FR: 38.3
-    FORD_TP_FR: 38.3
+    ECOSPORT_TP_FR: 38.3
   response: |-
     72E0562281402FE
     72E07622B0000000000
 - expected_values:
-    FORD_MAX_TP_FR: 38.35
-    FORD_TP_FR: 38.35
+    ECOSPORT_TP_FR: 38.35
   response: 72E0562281402FF
 - expected_values:
-    FORD_MAX_TP_FR: 38.4
-    FORD_TP_FR: 38.4
+    ECOSPORT_TP_FR: 38.4
   response: '72E056228140300'

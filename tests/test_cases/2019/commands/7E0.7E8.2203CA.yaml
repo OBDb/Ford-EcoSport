@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2203CA
 test_cases:
 - expected_values:
-    FORD_MCT: 80
+    ECOSPORT_MCT: 80
   response: 7E8046203CA50
 - expected_values:
-    FORD_MCT: 105
+    ECOSPORT_MCT: 105
   response: 7E8046203CA69

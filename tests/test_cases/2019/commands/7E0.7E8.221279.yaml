@@ -1,19 +1,19 @@
 command_id: 7E0.7E8.221279
 test_cases:
 - expected_values:
-    FORD_IAT_SENS_V: 0.66471
+    ECOSPORT_IAT_SENS_V: 0.66471
   response: '7E8056212790088'
 - expected_values:
-    FORD_IAT_SENS_V: 1.24633
+    ECOSPORT_IAT_SENS_V: 1.24633
   response: 7E80562127900FF
 - expected_values:
-    FORD_IAT_SENS_V: 1.25122
+    ECOSPORT_IAT_SENS_V: 1.25122
   response: '7E8056212790100'
 - expected_values:
-    FORD_IAT_SENS_V: 1.50538
+    ECOSPORT_IAT_SENS_V: 1.50538
   response: |-
     7E8056212790134
     7E8075902FFC155002E
 - expected_values:
-    FORD_IAT_SENS_V: 2.50244
+    ECOSPORT_IAT_SENS_V: 2.50244
   response: '7E8056212790200'

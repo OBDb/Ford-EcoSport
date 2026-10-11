@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.22F407
 test_cases:
 - expected_values:
-    FORD_LTFT: -15.625
+    ECOSPORT_LTFT: -15.625
   response: 7E80462F4076C
 - expected_values:
-    FORD_LTFT: -3.90625
+    ECOSPORT_LTFT: -3.90625
   response: |-
     7E80462F4077B
     7E8075902FFC155002E
 - expected_values:
-    FORD_LTFT: 9.375
+    ECOSPORT_LTFT: 9.375
   response: 7E80462F4078C

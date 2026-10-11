@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220403
 test_cases:
 - expected_values:
-    FORD_KS1_RAW: 11
+    ECOSPORT_KS1_RAW: 11
   response: 7E805620403000B
 - expected_values:
-    FORD_KS1_RAW: 255
+    ECOSPORT_KS1_RAW: 255
   response: 7E80562040300FF
 - expected_values:
-    FORD_KS1_RAW: 256
+    ECOSPORT_KS1_RAW: 256
   response: '7E8056204030100'
 - expected_values:
-    FORD_KS1_RAW: 516
+    ECOSPORT_KS1_RAW: 516
   response: '7E8056204030204'

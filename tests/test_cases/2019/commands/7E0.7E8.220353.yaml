@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.220353
 test_cases:
 - expected_values:
-    FORD_BARO: 12.72564
+    ECOSPORT_BARO: 12.72564
   response: 7E805620353015F
 - expected_values:
-    FORD_BARO: 14.64717
+    ECOSPORT_BARO: 14.64717
   response: '7E8056203530194'
 - expected_values:
-    FORD_BARO: 13.77704
+    ECOSPORT_BARO: 13.77704
   response: |-
     7E8075902FFC1550028
     7E805620353017C

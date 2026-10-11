@@ -1,20 +1,16 @@
 command_id: 7E0.7E8.22035A
 test_cases:
 - expected_values:
-    FORD_BARO_V: 3.4653
-    FORD_MAX_BARO_V: 3.4653
+    ECOSPORT_BARO_V: 3.4653
   response: 7E80562035A02C5
 - expected_values:
-    FORD_BARO_V: 3.6217
-    FORD_MAX_BARO_V: 3.6217
+    ECOSPORT_BARO_V: 3.6217
   response: |-
     7E80562035A02E5
     7E8075902FFC155002E
 - expected_values:
-    FORD_BARO_V: 3.74878
-    FORD_MAX_BARO_V: 3.74878
+    ECOSPORT_BARO_V: 3.74878
   response: 7E80562035A02FF
 - expected_values:
-    FORD_BARO_V: 3.75367
-    FORD_MAX_BARO_V: 3.75367
+    ECOSPORT_BARO_V: 3.75367
   response: 7E80562035A0300

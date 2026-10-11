@@ -1,10 +1,8 @@
 command_id: 7E0.7E8.220301
 test_cases:
 - expected_values:
-    FORD_MAP_V: 1.18652
-    FORD_[ECU] MAP voltage: 1.18652
+    ECOSPORT_MAP_V: 1.18652
   response: 7E80562030104BF
 - expected_values:
-    FORD_MAP_V: 1.1875
-    FORD_[ECU] MAP voltage: 1.1875
+    ECOSPORT_MAP_V: 1.1875
   response: 7E80562030104C0

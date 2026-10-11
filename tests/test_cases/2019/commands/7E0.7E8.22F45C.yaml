@@ -1,32 +1,32 @@
 command_id: 7E0.7E8.22F45C
 test_cases:
 - expected_values:
-    FORD_EOT_F45C: 82
+    ECOSPORT_EOT_F45C: 82
   response: 7E80462F45C7A
 - expected_values:
-    FORD_EOT_F45C: 83
+    ECOSPORT_EOT_F45C: 83
   response: 7E80462F45C7B
 - expected_values:
-    FORD_EOT_F45C: 85
+    ECOSPORT_EOT_F45C: 85
   response: 7E80462F45C7D
 - expected_values:
-    FORD_EOT_F45C: 86
+    ECOSPORT_EOT_F45C: 86
   response: 7E80462F45C7E
 - expected_values:
-    FORD_EOT_F45C: 87
+    ECOSPORT_EOT_F45C: 87
   response: 7E80462F45C7F
 - expected_values:
-    FORD_EOT_F45C: 88
+    ECOSPORT_EOT_F45C: 88
   response: 7E80462F45C80
 - expected_values:
-    FORD_EOT_F45C: 89
+    ECOSPORT_EOT_F45C: 89
   response: 7E80462F45C81
 - expected_values:
-    FORD_EOT_F45C: 91
+    ECOSPORT_EOT_F45C: 91
   response: 7E80462F45C83
 - expected_values:
-    FORD_EOT_F45C: 93
+    ECOSPORT_EOT_F45C: 93
   response: 7E80462F45C85
 - expected_values:
-    FORD_EOT_F45C: 94
+    ECOSPORT_EOT_F45C: 94
   response: 7E80462F45C86

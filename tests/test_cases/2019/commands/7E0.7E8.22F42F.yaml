@@ -1,13 +1,13 @@
 command_id: 7E0.7E8.22F42F
 test_cases:
 - expected_values:
-    FORD_FLI: 13.72549
+    ECOSPORT_FLI_7E0: 13.72549
   response: 7E80462F42F23
 - expected_values:
-    FORD_FLI: 72.94118
+    ECOSPORT_FLI_7E0: 72.94118
   response: |-
     7E80462F42FBA
     7E8075902FFC1550028
 - expected_values:
-    FORD_FLI: 100
+    ECOSPORT_FLI_7E0: 100
   response: 7E80462F42FFF
