@@ -31,6 +31,11 @@ test_cases:
     72E100C62280B6503D5
     72E21CB02AD3F462600
 - expected_values:
+    ECOSPORT_TYRE_T: 35
+  response: |-
+    72E100C62280B6503D5
+    72E21CB02DF4B463C00
+- expected_values:
     ECOSPORT_TYRE_T: 5
   response: |-
     72E100C62280B6503D7
@@ -45,11 +50,6 @@ test_cases:
   response: |-
     72E100C62280B6503D7
     72E215502BC6F4BEA00
-- expected_values:
-    ECOSPORT_TYRE_T: 36
-  response: |-
-    72E100C62280B6503D7
-    72E215502DF4C46C900
 - expected_values:
     ECOSPORT_TYRE_T: 7
   response: |-
