@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.22054D
 test_cases:
 - expected_values:
-    FORD_LPFP_SENS_V: 2.88086
+    ECOSPORT_LPFP_SENS_V: 2.88086
   response: 7E80562054D0B86
 - expected_values:
-    FORD_LPFP_SENS_V: 3.75
+    ECOSPORT_LPFP_SENS_V: 3.75
   response: 7E80562054D0F00
 - expected_values:
-    FORD_LPFP_SENS_V: 3.99902
+    ECOSPORT_LPFP_SENS_V: 3.99902
   response: 7E80562054D0FFF
 - expected_values:
-    FORD_LPFP_SENS_V: 4.00391
+    ECOSPORT_LPFP_SENS_V: 4.00391
   response: 7E80562054D1004

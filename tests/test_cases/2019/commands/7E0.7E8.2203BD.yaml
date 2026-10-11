@@ -1,20 +1,16 @@
 command_id: 7E0.7E8.2203BD
 test_cases:
 - expected_values:
-    FORD_CL_LC: 0
-    FORD_[ECU] CL Lambda Corr: 0
+    ECOSPORT_CL_LC: 0
   response: 7E8056203BD0000
 - expected_values:
-    FORD_CL_LC: 0.01001
-    FORD_[ECU] CL Lambda Corr: 0.01001
+    ECOSPORT_CL_LC: 0.01001
   response: |-
     7E8056203BD0052
     7E8075902FFC1550028
 - expected_values:
-    FORD_CL_LC: 0.02905
-    FORD_[ECU] CL Lambda Corr: 0.02905
+    ECOSPORT_CL_LC: 0.02905
   response: 7E8056203BD00EE
 - expected_values:
-    FORD_CL_LC: -0.02393
-    FORD_[ECU] CL Lambda Corr: -0.02393
+    ECOSPORT_CL_LC: -0.02393
   response: 7E8056203BDFF3C

@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220334
 test_cases:
 - expected_values:
-    FORD_PCM_CYL_HEAD_T_CORR: 0
+    ECOSPORT_PCM_CYL_HEAD_T_CORR: 0
   response: '7E8056203340000'
 - expected_values:
-    FORD_PCM_CYL_HEAD_T_CORR: 87.98438
+    ECOSPORT_PCM_CYL_HEAD_T_CORR: 87.98438
   response: 7E80562033415FF
 - expected_values:
-    FORD_PCM_CYL_HEAD_T_CORR: 108
+    ECOSPORT_PCM_CYL_HEAD_T_CORR: 108
   response: 7E8056203341B00

@@ -1,10 +1,10 @@
 command_id: 726.72E.22420A
 test_cases:
 - expected_values:
-    FORD_BAT_ST_DETECTION: 3
+    ECOSPORT_BAT_ST_DETECTION: 3
   response: 72E0462420A03
 - expected_values:
-    FORD_BAT_ST_DETECTION: 3
+    ECOSPORT_BAT_ST_DETECTION: 3
   response: |-
     72E0462420A03
     72E07622B0000000000

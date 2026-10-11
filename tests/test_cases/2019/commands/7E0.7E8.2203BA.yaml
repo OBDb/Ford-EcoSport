@@ -1,30 +1,24 @@
 command_id: 7E0.7E8.2203BA
 test_cases:
 - expected_values:
-    FORD_AAT_V: 0.85533
-    FORD_MAX_AAT_V: 0.85533
+    ECOSPORT_AAT_V: 0.85533
   response: 7E8056203BA00AF
 - expected_values:
-    FORD_AAT_V: 1.24633
-    FORD_MAX_AAT_V: 1.24633
+    ECOSPORT_AAT_V: 1.24633
   response: 7E8056203BA00FF
 - expected_values:
-    FORD_AAT_V: 1.25122
-    FORD_MAX_AAT_V: 1.25122
+    ECOSPORT_AAT_V: 1.25122
   response: 7E8056203BA0100
 - expected_values:
-    FORD_AAT_V: 2.09189
-    FORD_MAX_AAT_V: 2.09189
+    ECOSPORT_AAT_V: 2.09189
   response: |-
     7E8056203BA01AC
     7E8075902FFC1550028
 - expected_values:
-    FORD_AAT_V: 2.50244
-    FORD_MAX_AAT_V: 2.50244
+    ECOSPORT_AAT_V: 2.50244
   response: 7E8056203BA0200
 - expected_values:
-    FORD_AAT_V: 2.56598
-    FORD_MAX_AAT_V: 2.56598
+    ECOSPORT_AAT_V: 2.56598
   response: |-
     7E8056203BA020D
     7E8075902FFC155002E

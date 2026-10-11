@@ -1,19 +1,19 @@
 command_id: 7E0.7E8.22F43C
 test_cases:
 - expected_values:
-    FORD_CAT_TEMP: 24.7
+    ECOSPORT_CAT_TEMP: 24.7
   response: 7E80562F43C0287
 - expected_values:
-    FORD_CAT_TEMP: 497.5
+    ECOSPORT_CAT_TEMP: 497.5
   response: 7E80562F43C14FF
 - expected_values:
-    FORD_CAT_TEMP: 497.6
+    ECOSPORT_CAT_TEMP: 497.6
   response: 7E80562F43C1500
 - expected_values:
-    FORD_CAT_TEMP: 581.5
+    ECOSPORT_CAT_TEMP: 581.5
   response: |-
     7E80562F43C1847
     7E8075902FFC1550028
 - expected_values:
-    FORD_CAT_TEMP: 934.4
+    ECOSPORT_CAT_TEMP: 934.4
   response: 7E80562F43C2610

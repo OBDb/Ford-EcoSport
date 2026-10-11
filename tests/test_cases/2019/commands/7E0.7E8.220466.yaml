@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.220466
 test_cases:
 - expected_values:
-    FORD_TIP_DES_ABS: 14.02063
+    ECOSPORT_TIP_DES_ABS: 14.02063
   response: '7E8056204663180'
 - expected_values:
-    FORD_TIP_DES_ABS: 14.15672
+    ECOSPORT_TIP_DES_ABS: 14.15672
   response: 7E80562046631FB
 - expected_values:
-    FORD_TIP_DES_ABS: 14.16668
+    ECOSPORT_TIP_DES_ABS: 14.16668
   response: '7E8056204663204'
 - expected_values:
-    FORD_TIP_DES_ABS: 31.53868
+    ECOSPORT_TIP_DES_ABS: 31.53868
   response: 7E8056204666F59

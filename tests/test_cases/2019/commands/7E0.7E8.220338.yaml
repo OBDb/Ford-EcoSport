@@ -1,21 +1,21 @@
 command_id: 7E0.7E8.220338
 test_cases:
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.13477
+    ECOSPORT_ETC_TRIM_LRN: 0.13477
   response: '7E8056203380045'
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.80273
+    ECOSPORT_ETC_TRIM_LRN: 0.80273
   response: |-
     7E805620338019B
     7E8075902FFC155002E
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.84766
+    ECOSPORT_ETC_TRIM_LRN: 0.84766
   response: |-
     7E80562033801B2
     7E8075902FFC155002E
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: 0.99805
+    ECOSPORT_ETC_TRIM_LRN: 0.99805
   response: 7E80562033801FF
 - expected_values:
-    FORD_ETC_TRIM_LEARNED: 1
+    ECOSPORT_ETC_TRIM_LRN: 1
   response: '7E8056203380200'

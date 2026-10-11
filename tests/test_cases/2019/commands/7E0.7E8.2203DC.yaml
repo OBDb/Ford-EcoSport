@@ -1,18 +1,14 @@
 command_id: 7E0.7E8.2203DC
 test_cases:
 - expected_values:
-    FORD_HPFP_DES: 53.66396
-    FORD_MAX_HPFP_DES: 370
+    ECOSPORT_HPFP_DES: 370
   response: 7E8056203DC0025
 - expected_values:
-    FORD_HPFP_DES: 369.84624
-    FORD_MAX_HPFP_DES: 2550
+    ECOSPORT_HPFP_DES: 2550
   response: 7E8056203DC00FF
 - expected_values:
-    FORD_HPFP_DES: 371.29661
-    FORD_MAX_HPFP_DES: 2560
+    ECOSPORT_HPFP_DES: 2560
   response: 7E8056203DC0100
 - expected_values:
-    FORD_HPFP_DES: 2899.30442
-    FORD_MAX_HPFP_DES: 19990
+    ECOSPORT_HPFP_DES: 19990
   response: 7E8056203DC07CF

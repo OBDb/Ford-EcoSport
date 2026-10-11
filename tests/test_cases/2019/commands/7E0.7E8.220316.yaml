@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220316
 test_cases:
 - expected_values:
-    FORD_VCT_INT_DUTY: 0
+    ECOSPORT_VCT_INT_DUTY: 0
   response: '7E8056203160000'
 - expected_values:
-    FORD_VCT_INT_DUTY: 27.3407
+    ECOSPORT_VCT_INT_DUTY: 27.3407
   response: 7E80562031622FF
 - expected_values:
-    FORD_VCT_INT_DUTY: 61.07178
+    ECOSPORT_VCT_INT_DUTY: 61.07178
   response: 7E8056203164E2C

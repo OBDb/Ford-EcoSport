@@ -1,62 +1,62 @@
 command_id: 726.72E.22280B
 test_cases:
 - expected_values:
-    FORD_TYRE_T: 7
+    ECOSPORT_TYRE_T: 7
   response: |-
     72E100C62280B6503D4
     72E217402762F067300
 - expected_values:
-    FORD_TYRE_T: 8
+    ECOSPORT_TYRE_T: 8
   response: |-
     72E100C62280B6503D4
     72E2174027630067400
 - expected_values:
-    FORD_TYRE_T: 34
+    ECOSPORT_TYRE_T: 34
   response: |-
     72E100C62280B6503D4
     72E217402CB4A46DF00
 - expected_values:
-    FORD_TYRE_T: 34
+    ECOSPORT_TYRE_T: 34
   response: |-
     72E100C62280B6503D4
     72E217402D04A46E000
 - expected_values:
-    FORD_TYRE_T: 8
+    ECOSPORT_TYRE_T: 8
   response: |-
     72E100C62280B6503D5
     72E21CB028030460E00
 - expected_values:
-    FORD_TYRE_T: 23
+    ECOSPORT_TYRE_T: 23
   response: |-
     72E100C62280B6503D5
     72E21CB02AD3F462600
 - expected_values:
-    FORD_TYRE_T: 5
+    ECOSPORT_TYRE_T: 5
   response: |-
     72E100C62280B6503D7
     72E2155026C2D469300
 - expected_values:
-    FORD_TYRE_T: 23
+    ECOSPORT_TYRE_T: 23
   response: |-
     72E100C62280B6503D7
     72E215502A33F056F00
 - expected_values:
-    FORD_TYRE_T: 71
+    ECOSPORT_TYRE_T: 71
   response: |-
     72E100C62280B6503D7
     72E215502BC6F4BEA00
 - expected_values:
-    FORD_TYRE_T: 36
+    ECOSPORT_TYRE_T: 36
   response: |-
     72E100C62280B6503D7
     72E215502DF4C46C900
 - expected_values:
-    FORD_TYRE_T: 7
+    ECOSPORT_TYRE_T: 7
   response: |-
     72E100C62280B6503D7
     72E21CE027B2F461100
 - expected_values:
-    FORD_TYRE_T: 37
+    ECOSPORT_TYRE_T: 37
   response: |-
     72E100C62280B6503D7
     72E21CE02E44D464400

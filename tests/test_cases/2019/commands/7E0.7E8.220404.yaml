@@ -1,24 +1,24 @@
 command_id: 7E0.7E8.220404
 test_cases:
 - expected_values:
-    FORD_KS2_RAW: 57
+    ECOSPORT_KS2_RAW: 57
   response: '7E8056204040039'
 - expected_values:
-    FORD_KS2_RAW: 108
+    ECOSPORT_KS2_RAW: 108
   response: |-
     7E805620404006C
     7E8075902FFC155002E
 - expected_values:
-    FORD_KS2_RAW: 145
+    ECOSPORT_KS2_RAW: 145
   response: |-
     7E8056204040091
     7E8075902FFC1550028
 - expected_values:
-    FORD_KS2_RAW: 255
+    ECOSPORT_KS2_RAW: 255
   response: 7E80562040400FF
 - expected_values:
-    FORD_KS2_RAW: 256
+    ECOSPORT_KS2_RAW: 256
   response: '7E8056204040100'
 - expected_values:
-    FORD_KS2_RAW: 515
+    ECOSPORT_KS2_RAW: 515
   response: '7E8056204040203'

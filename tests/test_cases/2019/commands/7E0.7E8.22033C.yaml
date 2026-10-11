@@ -1,42 +1,32 @@
 command_id: 7E0.7E8.22033C
 test_cases:
 - expected_values:
-    FORD_MAX_TIP_V: 1.57715
-    FORD_TIP_V: 1.57715
+    ECOSPORT_TIP_V: 1.57715
   response: 7E80562033C0143
 - expected_values:
-    FORD_MAX_TIP_V: 1.60156
-    FORD_TIP_V: 1.60156
+    ECOSPORT_TIP_V: 1.60156
   response: 7E80562033C0148
 - expected_values:
-    FORD_MAX_TIP_V: 1.60645
-    FORD_TIP_V: 1.60645
+    ECOSPORT_TIP_V: 1.60645
   response: 7E80562033C0149
 - expected_values:
-    FORD_MAX_TIP_V: 1.61133
-    FORD_TIP_V: 1.61133
+    ECOSPORT_TIP_V: 1.61133
   response: 7E80562033C014A
 - expected_values:
-    FORD_MAX_TIP_V: 1.61621
-    FORD_TIP_V: 1.61621
+    ECOSPORT_TIP_V: 1.61621
   response: 7E80562033C014B
 - expected_values:
-    FORD_MAX_TIP_V: 1.62109
-    FORD_TIP_V: 1.62109
+    ECOSPORT_TIP_V: 1.62109
   response: 7E80562033C014C
 - expected_values:
-    FORD_MAX_TIP_V: 1.62598
-    FORD_TIP_V: 1.62598
+    ECOSPORT_TIP_V: 1.62598
   response: 7E80562033C014D
 - expected_values:
-    FORD_MAX_TIP_V: 1.63086
-    FORD_TIP_V: 1.63086
+    ECOSPORT_TIP_V: 1.63086
   response: 7E80562033C014E
 - expected_values:
-    FORD_MAX_TIP_V: 1.64062
-    FORD_TIP_V: 1.64062
+    ECOSPORT_TIP_V: 1.64062
   response: 7E80562033C0150
 - expected_values:
-    FORD_MAX_TIP_V: 1.75293
-    FORD_TIP_V: 1.75293
+    ECOSPORT_TIP_V: 1.75293
   response: 7E80562033C0167
