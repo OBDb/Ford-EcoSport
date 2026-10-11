@@ -6,11 +6,11 @@ test_cases:
   response: 7E80562031B0000
 - expected_values:
     FORD_VCT_EXH_ERR: 50
-    FORD_[ECU] VCT exhaust error: 50
+    FORD_[ECU] VCT exhaust error: -12.4375
   response: 7E80562031BFF39
 - expected_values:
     FORD_VCT_EXH_ERR: 50
-    FORD_[ECU] VCT exhaust error: 50
+    FORD_[ECU] VCT exhaust error: -0.0625
   response: 7E80562031BFFFF
 - expected_values:
     FORD_VCT_EXH_ERR: 0.375
