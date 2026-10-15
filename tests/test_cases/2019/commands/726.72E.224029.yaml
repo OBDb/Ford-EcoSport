@@ -1,8 +1,8 @@
 command_id: 726.72E.224029
 test_cases:
 - expected_values:
-    ECOSPORT_12V_T: 10
-  response: '72E0462402932'
+    ECOSPORT_12V_T: 7
+  response: 72E046240292F
 - expected_values:
     ECOSPORT_12V_T: 39
   response: |-
