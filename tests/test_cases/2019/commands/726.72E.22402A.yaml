@@ -25,8 +25,8 @@ test_cases:
     72E0462402AAA
     72E07622B0000000000
 - expected_values:
-    ECOSPORT_12V_V: 14.9
-  response: 72E0462402AB2
+    ECOSPORT_12V_V: 15
+  response: 72E0462402AB4
 - expected_values:
     ECOSPORT_12V_V: 14.5
   response: |-
