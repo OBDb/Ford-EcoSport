@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22035A
+test_cases:
+- expected_values:
+    ECOSPORT_BARO_V: 3.74389
+  response: 7E80562035A02FE
+- expected_values:
+    ECOSPORT_BARO_V: 3.75367
+  response: 7E80562035A0300
+- expected_values:
+    ECOSPORT_BARO_V: 3.75855
+  response: 7E80562035A0301

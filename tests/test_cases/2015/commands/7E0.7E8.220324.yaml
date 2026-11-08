@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.220324
+test_cases:
+- expected_values:
+    ECOSPORT_HPFP_V: 1.08504
+  response: 7E80562032400DE
+- expected_values:
+    ECOSPORT_HPFP_V: 1.08993
+  response: 7E80562032400DF
+- expected_values:
+    ECOSPORT_HPFP_V: 1.4174
+  response: '7E8056203240122'
+- expected_values:
+    ECOSPORT_HPFP_V: 1.43695
+  response: '7E8056203240126'
+- expected_values:
+    ECOSPORT_HPFP_V: 1.4565
+  response: 7E805620324012A
+- expected_values:
+    ECOSPORT_HPFP_V: 1.47116
+  response: 7E805620324012D
+- expected_values:
+    ECOSPORT_HPFP_V: 1.49071
+  response: '7E8056203240131'
+- expected_values:
+    ECOSPORT_HPFP_V: 1.63245
+  response: 7E805620324014E

@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    ECOSPORT_FLI_7E0: 66.27451
+  response: 7E80462F42FA9
+- expected_values:
+    ECOSPORT_FLI_7E0: 81.96078
+  response: 7E80462F42FD1
+- expected_values:
+    ECOSPORT_FLI_7E0: 83.13725
+  response: 7E80462F42FD4

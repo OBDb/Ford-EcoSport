@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22033E
+test_cases:
+- expected_values:
+    ECOSPORT_TIP_ABS: 13.7219
+  response: 7E80562033E3072
+- expected_values:
+    ECOSPORT_TIP_ABS: 13.74845
+  response: 7E80562033E308A
+- expected_values:
+    ECOSPORT_TIP_ABS: 13.75509
+  response: 7E80562033E3090
+- expected_values:
+    ECOSPORT_TIP_ABS: 13.76062
+  response: 7E80562033E3095
+- expected_values:
+    ECOSPORT_TIP_ABS: 13.78165
+  response: 7E80562033E30A8
+- expected_values:
+    ECOSPORT_TIP_ABS: 13.80156
+  response: 7E80562033E30BA

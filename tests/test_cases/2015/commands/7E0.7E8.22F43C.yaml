@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    ECOSPORT_CAT_TEMP: 183
+  response: 7E80562F43C08B6
+- expected_values:
+    ECOSPORT_CAT_TEMP: 192.1
+  response: 7E80562F43C0911
+- expected_values:
+    ECOSPORT_CAT_TEMP: 247.7
+  response: 7E80562F43C0B3D
+- expected_values:
+    ECOSPORT_CAT_TEMP: 271.4
+  response: 7E80562F43C0C2A
+- expected_values:
+    ECOSPORT_CAT_TEMP: 276.4
+  response: 7E80562F43C0C5C
+- expected_values:
+    ECOSPORT_CAT_TEMP: 281.4
+  response: 7E80562F43C0C8E
+- expected_values:
+    ECOSPORT_CAT_TEMP: 285.1
+  response: 7E80562F43C0CB3
+- expected_values:
+    ECOSPORT_CAT_TEMP: 396.3
+  response: 7E80562F43C110B
+- expected_values:
+    ECOSPORT_CAT_TEMP: 484
+  response: 7E80562F43C1478

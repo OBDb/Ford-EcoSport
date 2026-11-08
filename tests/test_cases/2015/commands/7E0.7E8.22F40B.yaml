@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F40B
+test_cases:
+- expected_values:
+    ECOSPORT_MAP: 3.91605
+  response: 7E80462F40B1B
+- expected_values:
+    ECOSPORT_MAP: 4.20613
+  response: 7E80462F40B1D
+- expected_values:
+    ECOSPORT_MAP: 4.35117
+  response: 7E80462F40B1E
+- expected_values:
+    ECOSPORT_MAP: 4.93132
+  response: 7E80462F40B22
+- expected_values:
+    ECOSPORT_MAP: 10.29776
+  response: 7E80462F40B47
+- expected_values:
+    ECOSPORT_MAP: 11.89319
+  response: 7E80462F40B52
+- expected_values:
+    ECOSPORT_MAP: 13.7787
+  response: 7E80462F40B5F

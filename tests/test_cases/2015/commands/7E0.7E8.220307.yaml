@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220307
+test_cases:
+- expected_values:
+    ECOSPORT_LPFP_DUTY: 0
+  response: '7E8056203070000'
+- expected_values:
+    ECOSPORT_LPFP_DUTY: 99.99695
+  response: 7E8056203077FFF
