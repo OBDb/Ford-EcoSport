@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2205FC
+test_cases:
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 41.0625
+  response: 7E8056205FC0A44
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 41.46875
+  response: 7E8056205FC0A5E
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 41.85938
+  response: 7E8056205FC0A77
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 44.35938
+  response: 7E8056205FC0B17
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 50.67188
+  response: 7E8056205FC0CAB
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 51.67188
+  response: 7E8056205FC0CEB
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 58.17188
+  response: 7E8056205FC0E8B
+- expected_values:
+    ECOSPORT_PCM_CYL_HEAD_T_SENS_2_RAW: 68.96875
+  response: 7E8056205FC113E

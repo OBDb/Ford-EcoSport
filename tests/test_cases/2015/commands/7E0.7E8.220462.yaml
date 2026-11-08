@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220462
+test_cases:
+- expected_values:
+    ECOSPORT_WGDC: 19.99817
+  response: '7E8056204621999'
+- expected_values:
+    ECOSPORT_WGDC: 43.19153
+  response: '7E8056204623749'
+- expected_values:
+    ECOSPORT_WGDC: 60.35767
+  response: 7E8056204624D42
+- expected_values:
+    ECOSPORT_WGDC: 61.42578
+  response: 7E8056204624EA0

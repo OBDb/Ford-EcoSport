@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221279
+test_cases:
+- expected_values:
+    ECOSPORT_IAT_SENS_V: 2.6002
+  response: '7E8056212790214'
+- expected_values:
+    ECOSPORT_IAT_SENS_V: 2.60997
+  response: '7E8056212790216'
+- expected_values:
+    ECOSPORT_IAT_SENS_V: 2.65885
+  response: '7E8056212790220'
+- expected_values:
+    ECOSPORT_IAT_SENS_V: 2.70283
+  response: '7E8056212790229'
+- expected_values:
+    ECOSPORT_IAT_SENS_V: 2.71261
+  response: 7E805621279022B
+- expected_values:
+    ECOSPORT_IAT_SENS_V: 2.81036
+  response: 7E805621279023F
+- expected_values:
+    ECOSPORT_IAT_SENS_V: 2.84457
+  response: '7E8056212790246'

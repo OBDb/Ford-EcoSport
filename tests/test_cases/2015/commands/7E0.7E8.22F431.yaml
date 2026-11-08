@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    ECOSPORT_DIST_DTC_CLR: 42236
+  response: 7E80562F431A4FC
+- expected_values:
+    ECOSPORT_DIST_DTC_CLR: 42237
+  response: 7E80562F431A4FD

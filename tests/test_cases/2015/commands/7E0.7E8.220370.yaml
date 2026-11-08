@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.220370
+test_cases:
+- expected_values:
+    ECOSPORT_MAP_HIRES: 28.25
+  response: '7E8056203700071'
+- expected_values:
+    ECOSPORT_MAP_HIRES: 30.25
+  response: '7E8056203700079'
+- expected_values:
+    ECOSPORT_MAP_HIRES: 33.75
+  response: '7E8056203700087'
+- expected_values:
+    ECOSPORT_MAP_HIRES: 62
+  response: 7E80562037000F8
+- expected_values:
+    ECOSPORT_MAP_HIRES: 70.75
+  response: 7E805620370011B
+- expected_values:
+    ECOSPORT_MAP_HIRES: 75.5
+  response: 7E805620370012E
+- expected_values:
+    ECOSPORT_MAP_HIRES: 95
+  response: 7E805620370017C

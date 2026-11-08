@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F407
+test_cases:
+- expected_values:
+    ECOSPORT_LTFT: -13.28125
+  response: 7E80462F4076F
+- expected_values:
+    ECOSPORT_LTFT: -11.71875
+  response: 7E80462F40771
+- expected_values:
+    ECOSPORT_LTFT: -6.25
+  response: 7E80462F40778
+- expected_values:
+    ECOSPORT_LTFT: -5.46875
+  response: 7E80462F40779

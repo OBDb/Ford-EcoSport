@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    ECOSPORT_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
+    ECOSPORT_VSS: 8
+  response: 7E80462F40D08
+- expected_values:
+    ECOSPORT_VSS: 32
+  response: 7E80462F40D20
+- expected_values:
+    ECOSPORT_VSS: 40
+  response: 7E80462F40D28

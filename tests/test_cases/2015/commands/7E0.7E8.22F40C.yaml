@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F40C
+test_cases:
+- expected_values:
+    ECOSPORT_RPM: 0
+  response: 7E80562F40C0000
+- expected_values:
+    ECOSPORT_RPM: 909.5
+  response: 7E80562F40C0E36
+- expected_values:
+    ECOSPORT_RPM: 1014
+  response: 7E80562F40C0FD8
+- expected_values:
+    ECOSPORT_RPM: 1017
+  response: 7E80562F40C0FE4
+- expected_values:
+    ECOSPORT_RPM: 1027
+  response: 7E80562F40C100C
+- expected_values:
+    ECOSPORT_RPM: 1477.5
+  response: 7E80562F40C1716
+- expected_values:
+    ECOSPORT_RPM: 1900
+  response: 7E80562F40C1DB0

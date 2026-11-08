@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220393
+test_cases:
+- expected_values:
+    ECOSPORT_AC_P: 156.93084
+  response: 7E805620393021D
+- expected_values:
+    ECOSPORT_AC_P: 158.38122
+  response: '7E8056203930222'
+- expected_values:
+    ECOSPORT_AC_P: 159.54152
+  response: '7E8056203930226'

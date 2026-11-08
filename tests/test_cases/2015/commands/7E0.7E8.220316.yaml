@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.220316
+test_cases:
+- expected_values:
+    ECOSPORT_VCT_INT_DUTY: 5.99976
+  response: 7E80562031607AE
+- expected_values:
+    ECOSPORT_VCT_INT_DUTY: 31.19507
+  response: 7E80562031627EE
+- expected_values:
+    ECOSPORT_VCT_INT_DUTY: 31.65894
+  response: '7E8056203162886'
+- expected_values:
+    ECOSPORT_VCT_INT_DUTY: 32.13501
+  response: '7E8056203162922'

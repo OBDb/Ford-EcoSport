@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22DD01|fc=1
+test_cases:
+- expected_values:
+    ECOSPORT_ODO_7E0: 175369
+  response: 7E80662DD0102AD09
+- expected_values:
+    ECOSPORT_ODO_7E0: 175370
+  response: 7E80662DD0102AD0A

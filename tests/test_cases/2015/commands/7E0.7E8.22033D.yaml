@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22033D
+test_cases:
+- expected_values:
+    ECOSPORT_MASS_AIRFLOW_SENS: 0
+  response: 7E80562033D0000
+- expected_values:
+    ECOSPORT_MASS_AIRFLOW_SENS: 1956
+  response: 7E80562033D1E90
+- expected_values:
+    ECOSPORT_MASS_AIRFLOW_SENS: 2119.5
+  response: 7E80562033D211E
+- expected_values:
+    ECOSPORT_MASS_AIRFLOW_SENS: 3363.5
+  response: 7E80562033D348E
+- expected_values:
+    ECOSPORT_MASS_AIRFLOW_SENS: 3816.75
+  response: 7E80562033D3BA3
+- expected_values:
+    ECOSPORT_MASS_AIRFLOW_SENS: 4071.5
+  response: 7E80562033D3F9E
+- expected_values:
+    ECOSPORT_MASS_AIRFLOW_SENS: 12285
+  response: 7E80562033DBFF4
