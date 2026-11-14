@@ -12,3 +12,18 @@ test_cases:
 - expected_values:
     ECOSPORT_WGDC: 61.42578
   response: 7E8056204624EA0
+- expected_values:
+    ECOSPORT_WGDC: 61.71875
+  response: 7E8056204624F00
+- expected_values:
+    ECOSPORT_WGDC: 61.84387
+  response: 7E8056204624F29
+- expected_values:
+    ECOSPORT_WGDC: 62.09412
+  response: 7E8056204624F7B
+- expected_values:
+    ECOSPORT_WGDC: 62.26807
+  response: 7E8056204624FB4
+- expected_values:
+    ECOSPORT_WGDC: 62.33521
+  response: 7E8056204624FCA

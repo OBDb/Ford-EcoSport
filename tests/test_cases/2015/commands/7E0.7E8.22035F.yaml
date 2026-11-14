@@ -10,8 +10,14 @@ test_cases:
     ECOSPORT_RO2_V: 0.45996
   response: 7E80562035F01D7
 - expected_values:
+    ECOSPORT_RO2_V: 0.60156
+  response: 7E80562035F0268
+- expected_values:
     ECOSPORT_RO2_V: 0.66992
   response: 7E80562035F02AE
+- expected_values:
+    ECOSPORT_RO2_V: 0.6748
+  response: 7E80562035F02B3
 - expected_values:
     ECOSPORT_RO2_V: 0.70898
   response: 7E80562035F02D6

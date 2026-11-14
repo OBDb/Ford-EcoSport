@@ -4,17 +4,8 @@ test_cases:
     ECOSPORT_RUN_TIME: 0
   response: 7E80562F41F0000
 - expected_values:
-    ECOSPORT_RUN_TIME: 15
-  response: 7E80562F41F000F
+    ECOSPORT_RUN_TIME: 471
+  response: 7E80562F41F01D7
 - expected_values:
-    ECOSPORT_RUN_TIME: 86
-  response: 7E80562F41F0056
-- expected_values:
-    ECOSPORT_RUN_TIME: 103
-  response: 7E80562F41F0067
-- expected_values:
-    ECOSPORT_RUN_TIME: 149
-  response: 7E80562F41F0095
-- expected_values:
-    ECOSPORT_RUN_TIME: 191
-  response: 7E80562F41F00BF
+    ECOSPORT_RUN_TIME: 1383
+  response: 7E80562F41F0567

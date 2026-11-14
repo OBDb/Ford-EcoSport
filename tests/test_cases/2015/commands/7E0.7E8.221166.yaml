@@ -3,3 +3,21 @@ test_cases:
 - expected_values:
     ECOSPORT_EVAP_PURGE_CMD: 0
   response: '7E8056211660000'
+- expected_values:
+    ECOSPORT_EVAP_PURGE_CMD: 4.10156
+  response: '7E8056211660540'
+- expected_values:
+    ECOSPORT_EVAP_PURGE_CMD: 5.99976
+  response: 7E80562116607AE
+- expected_values:
+    ECOSPORT_EVAP_PURGE_CMD: 6.11572
+  response: 7E80562116607D4
+- expected_values:
+    ECOSPORT_EVAP_PURGE_CMD: 6.20728
+  response: 7E80562116607F2
+- expected_values:
+    ECOSPORT_EVAP_PURGE_CMD: 6.2561
+  response: '7E8056211660802'
+- expected_values:
+    ECOSPORT_EVAP_PURGE_CMD: 91.16516
+  response: 7E80562116674B1

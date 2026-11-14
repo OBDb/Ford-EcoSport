@@ -1,11 +1,23 @@
 command_id: 7E0.7E8.220318
 test_cases:
 - expected_values:
+    ECOSPORT_VCT_INT_ACT: 4.875
+  response: 7E805620318004E
+- expected_values:
     ECOSPORT_VCT_INT_ACT: 5
   response: '7E8056203180050'
 - expected_values:
+    ECOSPORT_VCT_INT_ACT: 5.0625
+  response: '7E8056203180051'
+- expected_values:
     ECOSPORT_VCT_INT_ACT: 5.125
   response: '7E8056203180052'
+- expected_values:
+    ECOSPORT_VCT_INT_ACT: 5.1875
+  response: '7E8056203180053'
+- expected_values:
+    ECOSPORT_VCT_INT_ACT: -25.875
+  response: 7E805620318FE62
 - expected_values:
     ECOSPORT_VCT_INT_ACT: -24.8125
   response: 7E805620318FE73

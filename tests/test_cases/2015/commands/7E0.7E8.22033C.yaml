@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     ECOSPORT_TIP_V: 1.55762
   response: 7E80562033C013F
+- expected_values:
+    ECOSPORT_TIP_V: 1.79199
+  response: 7E80562033C016F

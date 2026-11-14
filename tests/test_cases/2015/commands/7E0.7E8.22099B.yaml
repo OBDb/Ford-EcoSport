@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     ECOSPORT_AC_STATE: 1
   response: 7E80562099B1000
+- expected_values:
+    ECOSPORT_AC_STATE: 1
+  response: 7E80562099B11A0

@@ -13,6 +13,15 @@ test_cases:
     ECOSPORT_MAP: 4.93132
   response: 7E80462F40B22
 - expected_values:
+    ECOSPORT_MAP: 6.09164
+  response: 7E80462F40B2A
+- expected_values:
+    ECOSPORT_MAP: 6.23667
+  response: 7E80462F40B2B
+- expected_values:
+    ECOSPORT_MAP: 6.52675
+  response: 7E80462F40B2D
+- expected_values:
     ECOSPORT_MAP: 10.29776
   response: 7E80462F40B47
 - expected_values:

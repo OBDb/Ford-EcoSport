@@ -9,3 +9,15 @@ test_cases:
 - expected_values:
     ECOSPORT_AC_P: 159.54152
   response: '7E8056203930226'
+- expected_values:
+    ECOSPORT_AC_P: 380.28898
+  response: 7E805620393051F
+- expected_values:
+    ECOSPORT_AC_P: 385.51033
+  response: '7E8056203930531'
+- expected_values:
+    ECOSPORT_AC_P: 387.83094
+  response: '7E8056203930539'
+- expected_values:
+    ECOSPORT_AC_P: 391.892
+  response: '7E8056203930547'
