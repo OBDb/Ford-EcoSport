@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     ECOSPORT_ODO_7E0: 175370
   response: 7E80662DD0102AD0A
+- expected_values:
+    ECOSPORT_ODO_7E0: 175976
+  response: 7E80662DD0102AF68

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     ECOSPORT_DIST_DTC_CLR: 42237
   response: 7E80562F431A4FD
+- expected_values:
+    ECOSPORT_DIST_DTC_CLR: 42841
+  response: 7E80562F431A759
+- expected_values:
+    ECOSPORT_DIST_DTC_CLR: 42856
+  response: 7E80562F431A768

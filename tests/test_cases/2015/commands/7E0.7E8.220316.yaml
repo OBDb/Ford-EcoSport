@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     ECOSPORT_VCT_INT_DUTY: 32.13501
   response: '7E8056203162922'
+- expected_values:
+    ECOSPORT_VCT_INT_DUTY: 35.98633
+  response: 7E8056203162E10

@@ -4,6 +4,9 @@ test_cases:
     ECOSPORT_TIP_ABS: 13.7219
   response: 7E80562033E3072
 - expected_values:
+    ECOSPORT_TIP_ABS: 13.73849
+  response: 7E80562033E3081
+- expected_values:
     ECOSPORT_TIP_ABS: 13.74845
   response: 7E80562033E308A
 - expected_values:
@@ -18,3 +21,6 @@ test_cases:
 - expected_values:
     ECOSPORT_TIP_ABS: 13.80156
   response: 7E80562033E30BA
+- expected_values:
+    ECOSPORT_TIP_ABS: 16.00888
+  response: 7E80562033E3885

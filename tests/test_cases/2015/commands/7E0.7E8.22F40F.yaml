@@ -18,3 +18,15 @@ test_cases:
 - expected_values:
     ECOSPORT_IAT_ALT2: 20
   response: 7E80462F40F3C
+- expected_values:
+    ECOSPORT_IAT_ALT2: 36
+  response: 7E80462F40F4C
+- expected_values:
+    ECOSPORT_IAT_ALT2: 37
+  response: 7E80462F40F4D
+- expected_values:
+    ECOSPORT_IAT_ALT2: 39
+  response: 7E80462F40F4F
+- expected_values:
+    ECOSPORT_IAT_ALT2: 40
+  response: 7E80462F40F50
